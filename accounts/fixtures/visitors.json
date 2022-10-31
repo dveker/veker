@@ -1,0 +1,1 @@
+[{"model": "accounts.visitor", "pk": 1, "fields": {"user": 2, "first_name": "Pol", "last_name": "Ok", "email": "pol@gmail.com", "phone_number": "+972526678912", "address": "Zvulun 5", "city": "Tel Aviv", "country": "IL"}}]
